@@ -9,19 +9,19 @@ Hoping someone can pull me out of the mire.
 
 DCGAN error result
 
-![DCGAN error result](.gan.png) 
+![DCGAN error result](https://raw.githubusercontent.com/Psunshine/CS231n-Spring-2017-Assignment/master/.dcgan_err.png) 
 
 DCGAN right result
 
-![DCGAN right result](.gan_right.png) 
+![DCGAN right result](https://raw.githubusercontent.com/Psunshine/CS231n-Spring-2017-Assignment/master/.dcgan_right.png) 
 
 styletransfer error result
 
-![style error result](.style.png) 
+![style error result](https://raw.githubusercontent.com/Psunshine/CS231n-Spring-2017-Assignment/master/.style_err.png) 
 
 styletransfer right result
 
-![style right result](.style_right.png)
+![style right result](https://raw.githubusercontent.com/Psunshine/CS231n-Spring-2017-Assignment/master/.style_right.png)
 
 --------------
 自己完成的[CS231n spring 2017 homework](http://cs231n.github.io/)。
